@@ -8,7 +8,7 @@ repository = "https://github.com/klebed/rustpl"
 license = "MIT"
 readme = "Readme.md"
 categories = ["command-line-utilities", "template-engine"]
-publish = false
+publish = true
 
 
 [dependencies]
