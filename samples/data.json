@@ -1,0 +1,8 @@
+{
+    "proto": "udp",
+    "server": "server111",
+    "port": 1111,
+    "tls.certificate_file": "cert.pem",
+    "tls_private_key_file": "tls_private_key_file",
+    "tls_private_key_password": null
+}
